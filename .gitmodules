@@ -1,6 +1,0 @@
-[submodule "Becas-Frontend"]
-	path = Becas-Frontend
-	url = https://github.com/DDelgadoT/Frontend-Proyect1-WWW
-[submodule "Becas-Backend"]
-	path = Becas-Backend
-	url = https://github.com/Sebastian1811/backend-proyecto1-www
